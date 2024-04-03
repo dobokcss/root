@@ -1,0 +1,7 @@
+*.swo
+*.swp
+*.vim
+dev.*
+*.dev.*
+*.dev/
+tags
